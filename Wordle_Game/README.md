@@ -27,14 +27,12 @@ Wordle - The New York Times: Guess the WORDLE in six tries.
 - [React](https://github.com/facebook/react)
 - [React Native](https://github.com/facebook/react-native)
 - [Styled Components](https://github.com/styled-components/styled-components)
-- [Jest](https://github.com/facebook/jest)
-- [React Native Testing Library](https://github.com/callstack/react-native-testing-library)
+
 
 ## Prerequisites
 
 Make sure to have the following installed:
 
-- Xcode
 - Android Studio
 
 You can use brew install for the following:
@@ -52,18 +50,11 @@ See [Getting Started](https://facebook.github.io/react-native/docs/getting-start
 
 ```bash
 $ yarn install
-$ cd ios && pod install
 ```
 
 ## Development
 
-#### iOS
-
-Run command to open iOS simulator and run app:
-
-```bash
-$ react-native run-ios
-```
+Run command to open Android simulator and run app:
 
 #### Android
 
