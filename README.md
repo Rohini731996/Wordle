@@ -16,9 +16,9 @@ Wordle - The New York Times.
 - images below represent from initial state to desired solution
 
 <p float="left">
-  <img src="./screenshots/step-1.png" width="220" title="hover text">
-  <img src="./screenshots/step-2.png" width="220" title="hover text">
-  <img src="./screenshots/step-3.png" width="220" title="hover text">
+  <img src="../screenshots/step-1.png" width="220" title="hover text">
+  <img src="../screenshots/step-2.png" width="220" title="hover text">
+  <img src="../screenshots/step-3.png" width="220" title="hover text">
 </p>
 
 ---
