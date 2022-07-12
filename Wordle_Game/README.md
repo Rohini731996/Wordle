@@ -5,7 +5,7 @@ Wordle - The New York Times: Guess the WORDLE in six tries.
 ## Problem statement
 
 - There is a list of 5-letter words. When game started, we pick random word from the list and player should guess it.
-- Player has 6 attempts to guess the word
+- Player has 5 attempts to guess the word
 - After each guess, we have few cases to handle:
 
   - Word wasn't found in the list. Then we should show the message about it to user
