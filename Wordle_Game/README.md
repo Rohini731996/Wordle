@@ -1,6 +1,6 @@
 # Wordle
 
-Wordle - The New York Times: Guess the WORDLE in six tries.
+Wordle - The New York Times.
 
 ## Problem statement
 
